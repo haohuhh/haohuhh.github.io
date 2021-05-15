@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics"
+title: "Microeconomics - TA"
 collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/micro
@@ -7,6 +7,8 @@ venue: "Guanghua School of Management, Peking University"
 date: 2020-03-01
 location: "Beijing, China"
 ---
+
+This course follows Hal R. Varian's textbook: *Intermediate Microeconomics: A Modern Approach*.
 
 Tutorials
 ------

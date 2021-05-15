@@ -11,7 +11,7 @@ redirect_from:
 
 Latest update: May. 2021
 
-Download the pdf version [here](https://haohuhh.github.io/cv/)
+Download the pdf version [here](https://www.dropbox.com/s/o4nrglkirmp6nnf/hh_CV.pdf?dl=0)
 
 Education
 ------

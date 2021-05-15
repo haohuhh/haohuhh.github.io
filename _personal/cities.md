@@ -44,7 +44,7 @@ Shot at Peking University, China.
 
 "Leaking - 2020"
 
-Shot at Madrid, Spain. It's the second apartment I rented in Madrid and first time of my life to see anything like this. Worth it.
+Shot at Madrid, Spain. It's the second apartment I rented in Madrid and the first time of my life to see anything like this. Worth it.
 
 <br/><img src='/images/Laguna.jpg'>
 
@@ -52,5 +52,5 @@ Shot at Madrid, Spain. It's the second apartment I rented in Madrid and first ti
 
 <br/><img src='/images/peak.jpg'>
 
-All shot at Pe&ntilde;alara, Madrid, Spain.
+All shot at Pe&ntilde;alara, Madrid, Spain. 2021.
 

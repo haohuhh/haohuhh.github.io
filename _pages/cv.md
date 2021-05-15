@@ -33,7 +33,7 @@ Research Assistant
   * Advised by Xi Weng
 * Spring 2016: Field Experiment Coordinator for Professor Yuyu Chen and Professor Hui Wang
   
-Teaching Experience
+Teaching
 ------
 * Undergraduate, Guanghua School of Management, Peking University
   * Fall 2018: Applied Econometrics, TA and Stata Instructor for Prof. Wanchuan Lin
@@ -43,7 +43,7 @@ Teaching Experience
 * Seminar, Guanghua School of Management, Peking University
   * 2017-2018: Shadow PBoC, Coordinator for Prof. Michael Pettis
   
-Working Experience
+Previous Employment
 ------
 * Summer 2017: Investment Analyst Intern at Index Capital, Beijing, China
   

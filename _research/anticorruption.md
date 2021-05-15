@@ -6,7 +6,7 @@ venue: "Work in Progress"
 date: 2019-07-01
 ---
 
-Will corruption's effect be transmitted through connections differently?
+*"Will corruption's effect be transmitted through connections differently?"*
 
 Abstract
 ------

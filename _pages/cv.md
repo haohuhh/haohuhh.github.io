@@ -11,6 +11,8 @@ redirect_from:
 
 Latest update: May. 2021
 
+Download the pdf version [here](https://haohuhh.github.io/cv/)
+
 Education
 ------
 * MRes/PhD in Economics, University College London, 2021 - 2026 (expected)

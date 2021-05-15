@@ -14,4 +14,4 @@ Will strengthening corruption monitoring diminish people's motivation to choose 
 
 Download
 ------
-Send me an email for latest draft.
+[Send me an email](hao.hu@cemfi.edu.es) for latest draft.

@@ -1,7 +1,6 @@
 ---
 title: "Anti-Corruption Reporting as Constraint: Persistence of Interprovincial Impact"
 collection: research
-type: "with *Honghao Wang*"
 permalink: /research/anticorruption
 venue: "Work in Progress"
 date: 2019-07-01

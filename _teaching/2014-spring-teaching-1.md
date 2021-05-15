@@ -1,20 +1,32 @@
 ---
-title: "Teaching experience 1"
+title: "Applied Econometrics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/aemetrics
+venue: "Guanghua School of Management, Peking University"
+date: 2018-10-01
+location: "Beijing, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course aim to teach students basic applied econometrics method like RCT, DiD, IV, Heckit, and other related methods. The stata tutorials focus on replication and data cleaning methods.
 
-Heading 1
-======
+Tutorials
+------
+* DiD and parallel trend assumption
+* Randomized Control Trial
+* Heckit
+* Instrument Variables and Endogeneity
+* Instrument Variables and Weak Instruments
 
-Heading 2
-======
+Stata Tutorials
+------
+* Data Cleaning
+* Environment and Loop
+* Replication and output
 
-Heading 3
-======
+Exams
+------
+* Midterm: Theory
+* Final: Computational
+
+**Notice**: Send me an email to request relevant materials.

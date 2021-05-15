@@ -7,7 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Hao Hu, or in Chinese 胡昊, which is written in Pinyin pronunciation <ruby/>h &uacute h &agrave<ruby/>
+
+I am Hao Hu, or in Chinese 胡昊, which is pronunced as h&uacute; h&agrave;o. I am currently a graduate student at CEMFI (Center for Monetary and Financial Studies), Spain. I am also an incoming MRes/PhD student at University College London.
+
+My research interests are political economy, economic development, economic history and cultural economics. I am also interested in applied microeconomics, labor economics, and contemporary China.
 
 Contact
 ------
+**Email**: hao.hu@cemfi.edu.es
+
+**Address**: Calle Casado del Alisal, 5. 28014 Madrid, Spain

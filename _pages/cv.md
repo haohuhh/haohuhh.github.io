@@ -11,7 +11,7 @@ redirect_from:
 
 Latest update: May. 2021
 
-Download the pdf version [here](https://www.dropbox.com/s/o4nrglkirmp6nnf/hh_CV.pdf?dl=0)
+Download the pdf version [here](https://drive.google.com/file/d/1USLnD5h9DAGwTTTGX5zMlp1YPRg2BBR1/view?usp=sharing)
 
 Education
 ------

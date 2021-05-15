@@ -26,7 +26,7 @@ Shot at my hometown, Jiangxi, China. It's used to be the most populated area wit
 
 "Long Live Mao - 2017"
 
-Shot at my high school classmate, friend's hometown, Jiangxi, China. It is a local reservoir built decades ago, and is no longer the water source but a "natural" swimming spot for rurual kids. Below the red star said "Long Live President Mao", the other two columns cannot be distinguished, but most likely a couplet about the secenary and revolution.
+Shot at my high school classmate, friend's hometown, Jiangxi, China. It is a local reservoir built decades ago, and is no longer the water source but a "natural" swimming spot for rurual kids. Below the red star said "Long Live President Mao", the other two columns cannot be distinguished, but most likely a couplet about the scenery and revolution.
 
 <br/><img src='/images/gsm.jpg'>
 

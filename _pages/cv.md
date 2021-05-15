@@ -56,8 +56,8 @@ Selected Awards and Honors
 * Fung Scholarship at National University of Singapore, 2018
 * Social Work Award at Peking University, 2018
 * Merit Student at Peking University, 2017
-* Field Experiment Work Prize in Guanghua School of Management, Peking University, 2016
-* Freshman Scholarship in Peking University, 2015
+* Field Experiment Work Prize at Guanghua School of Management, Peking University, 2016
+* Freshman Scholarship at Peking University, 2015
   
 Additional Information
 ------

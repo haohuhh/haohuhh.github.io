@@ -14,4 +14,4 @@ Given one official from the 2002-2012 pool, we constructed his network of previo
 
 Download
 ------
-Send me an email for latest draft.
+[Send me an email](hao.hu@cemfi.edu.es) for latest draft.

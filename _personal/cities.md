@@ -1,12 +1,12 @@
 ---
-title: "Cities"
-excerpt: ""It was the best of times, it was the worst of times" <br/><img src='/images/2018-01-24 142515.jpg'>"
+title: "Pictures"
+excerpt: "Amature works. All rights reserved to myself  <br/><img src='/images/2018-01-24 142515.jpg'>"
 collection: personal
----
+--- 
 
 <br/><img src='/images/2018-01-24 142515.jpg'>
 
-"Storm is Coming - 2018"
+"Storms are Coming - 2018"
 
 Shot at Tembusu College, National University of Singpaore, Singapore
 

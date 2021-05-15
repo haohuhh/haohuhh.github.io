@@ -1,6 +1,6 @@
 ---
 title: "Pictures"
-excerpt: "Amature works. All rights reserved to myself  <br/><img src='/images/2018-01-24 142515.jpg'>"
+excerpt: "Amature works. All rights reserved to myself  <br/><img src='/images/view.jpg'>"
 collection: personal
 --- 
 

@@ -1,5 +1,5 @@
 ---
-title: "Applied Econometrics"
+title: "Applied Econometrics - TA"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/aemetrics

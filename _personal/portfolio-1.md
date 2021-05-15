@@ -1,6 +1,6 @@
 ---
 title: "Storm is Coming"
-excerpt: "Shot at Tembusu College, National University of Singapore 1<br/><img src='/images/storm.png'>"
+excerpt: "Shot at Tembusu College, National University of Singapore 1<br/><img src='/images/2018-01-24 142515.jpg'>"
 collection: personal
 ---
 

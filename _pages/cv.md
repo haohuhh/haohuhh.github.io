@@ -26,15 +26,10 @@ Research
   
 Research Assistant
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Assistant for Professor Monica Martinez-Bravo
+* 2017 - 2019: Independent Research Program at Peking University
+  * Advised by Xi Weng
+* Spring 2016: Field Experiment Coordinator for Professor Yuyu Chen and Professor Hui Wang
   
 Teaching Experience
 ======
@@ -48,33 +43,25 @@ Teaching Experience
   
 Working Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Investment Analyst Intern at Index Capital, Beijing, China
   
 Selected Awards and Honors
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Excellent Graduates of 2019 cohort in Peking University, 2019
+* Fung Scholarship at National University of Singapore, 2018
+* Social Work Award at Peking University, 2018
+* Merit Student at Peking University, 2017
+* Field Experiment Work Prize in Guanghua School of Management, Peking University
+* Freshman Scholarship in Peking University
   
 Additional Information
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computer
+  * R, Stata, MATLAB, Julia, Fortran
+  * Python
+  * LaTex, ArcGIS, Microsoft Office
+* Language
+  * Mandarin Chinese (native), English, Cantonese, Spanish (Beginner)
+* Hobbies
+  * Basketball, tennis, Taekwondo, music programming, photography
+  * Occasionally writing movie and music critics, (trying to be an) amateur director

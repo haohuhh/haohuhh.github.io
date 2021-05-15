@@ -20,7 +20,7 @@ Education
   * Thesis: *Bureaucratic Supply under Inspection: Evidence from China's Civil Service Exam*, advised by Prof. [Monica Martinez-Bravo](https://www.cemfi.es/~martinez-bravo/mmb/Home.html)
 * Bachelor in Finance, Peking University, 2015 - 2019
   * Thesis: *Intergenerational Political Attitude Transmission: Evidence from Chinese Families*, advised by Prof. [Xi Weng](https://wengxi125.weebly.com/)
-  * with a Minor in International Politics, 2016 - 2019
+  * Minor in International Politics, 2016 - 2019
   * Sponsored exchange tour to National University of Singapore, 2018
 
 Research

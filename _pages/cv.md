@@ -41,7 +41,7 @@ Teaching
   * Spring 2019: Microeconomics, TA for Prof. Li'an Zhou
 
 * Seminar, Guanghua School of Management, Peking University
-  * 2017-2018: Shadow PBoC, Coordinator for Prof. Michael Pettis
+  * 2017-2018: Shadow PBoC, coordinator for Prof. Michael Pettis
   
 Previous Employment
 ------

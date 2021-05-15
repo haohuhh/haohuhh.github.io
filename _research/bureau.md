@@ -2,7 +2,7 @@
 title: "Bureaucratic Supply under Inspection: Evidence from China’s Civil Service Exam"
 collection: research
 permalink: /research/bureau
-venue: "Work in Progress(Graduate thesis advised by Prof. Monica Martinez-Bravo)"
+venue: "Work in Progress(graduate thesis advised by Prof. Monica Martinez-Bravo)"
 date: 2021-06-11
 ---
 

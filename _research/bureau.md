@@ -1,11 +1,12 @@
 ---
 title: "Bureaucratic Supply under Inspection: Evidence from China’s Civil Service Exam"
 collection: research
-type: "Graduate Thesis (Advised by Prof. Monica Martinez-Bravo)"
 permalink: /research/bureau
-venue: "Work in Progress"
+venue: "Work in Progress(Graduate thesis advised by Prof. Monica Martinez-Bravo)"
 date: 2021-06-11
 ---
+
+*"How would inspection from central government affect people’s willingness tochoose a public sector career path?"*
 
 Abstract
 ------

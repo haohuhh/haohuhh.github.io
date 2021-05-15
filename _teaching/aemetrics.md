@@ -29,4 +29,4 @@ Exams
 * Midterm: Theory
 * Final: Computational
 
-**Notice**: Send me an email to request relevant materials.
+**Notice**: [Send me an email](hao.hu@cemfi.edu.es) to require relevant materials.

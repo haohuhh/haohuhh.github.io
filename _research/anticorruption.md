@@ -4,8 +4,10 @@ collection: research
 type: "with *Honghao Wang*"
 permalink: /research/anticorruption
 venue: "Work in Progress"
-#date: 2019-07-01
+date: 2019-07-01
 ---
+
+Will corruption's effect be transmitted through connections differently?
 
 Abstract
 ------

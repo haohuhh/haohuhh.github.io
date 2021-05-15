@@ -14,4 +14,4 @@ The relationships between intrinsic traits intergenerational transmission and po
 
 Download
 ------
-Send me an email for latest draft.
+[Send me an email](hao.hu@cemfi.edu.es) for latest draft.

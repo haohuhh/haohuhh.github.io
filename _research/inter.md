@@ -1,9 +1,8 @@
 ---
 title: "Intergenerational Political Attitude Transmision: Evidence from Chinese Families"
 collection: research
-type: "Undergraduate Thesis (Advised by Prof. Xi Weng)"
 permalink: /research/inter
-venue: "Working Paper"
+venue: "Working Paper (undergraduate thesis advised by Prof. Xi Weng)"
 date: 2019-05-01
 ---
 

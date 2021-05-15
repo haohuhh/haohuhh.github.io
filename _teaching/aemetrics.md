@@ -8,7 +8,7 @@ date: 2018-10-01
 location: "Beijing, China"
 ---
 
-This course aims to teach students basic applied econometrics method like RCT, DiD, IV, Heckit, and other related methods. The stata tutorials focus on replication and data cleaning methods.
+This course aims to teach students basic applied econometrics methods like RCT, DiD, IV, Heckit, and other related topics. The stata tutorials focus on replication and data cleaning methods.
 
 Tutorials
 ------

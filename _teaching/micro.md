@@ -18,4 +18,4 @@ Tutorials
 * Game Theory
 * General Equilibrium
 
-**Notice**: Send me an email to request relevant materials.
+**Notice**: [Send me an email](hao.hu@cemfi.edu.es) to request relevant materials.

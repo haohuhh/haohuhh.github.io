@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/micro
 venue: "Guanghua School of Management, Peking University"
-date: 2020-03-01
+date: 2019-03-01
 location: "Beijing, China"
 ---
 

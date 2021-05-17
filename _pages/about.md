@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Hu, or in Chinese 胡昊, which is pronunced as h&uacute; h&agrave;o. I am currently a graduate student at [CEMFI (Center for Monetary and Financial Studies)](https://www.cemfi.es/), Spain. I am also an incoming MRes/PhD student at [Department of Economics, University College London](https://www.ucl.ac.uk/economics/). Before this, I studied at Peking University, China.
+I am Hao Hu, or in Chinese 胡昊, which is pronunced as h&uacute; h&agrave;o. I am currently a graduate student at [CEMFI (Center for Monetary and Financial Studies)](https://www.cemfi.es/), Spain. I am also an incoming MRes/PhD student at [Department of Economics, University College London](https://www.ucl.ac.uk/economics/). Before this, I studied at [Guanghua School of Management, Peking University](https://en.gsm.pku.edu.cn/), China.
 
 My research interests are political economy, economic development, economic history and cultural economics. I am also interested in applied microeconomics, labor economics, and contemporary China.
 

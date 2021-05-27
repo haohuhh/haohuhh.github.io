@@ -11,7 +11,7 @@ redirect_from:
 
 Latest update: May. 2021
 
-Download the pdf version [here](https://drive.google.com/file/d/1USLnD5h9DAGwTTTGX5zMlp1YPRg2BBR1/view?usp=sharing)
+Download the pdf version [here](https://drive.google.com/file/d/1u2z8b-hKPtGsulnE22X2OX5UMjqBAOT0/view?usp=sharing)
 
 Education
 ------
